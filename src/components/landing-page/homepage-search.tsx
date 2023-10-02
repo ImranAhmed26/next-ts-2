@@ -18,7 +18,7 @@ const HomepageSearch = () => {
               height={300}
             />
           </div>
-          <div className="text-xl font-bold text-gray-800 p-2">
+          <div className="text-xl font-bold p-2">
             Search by size
           </div>
           <div></div>
@@ -35,7 +35,7 @@ const HomepageSearch = () => {
               height={300}
             />
           </div>
-          <div className="text-xl font-bold text-gray-800 p-2">
+          <div className="text-xl font-bold p-2">
             Search by reg
           </div>
         </div>
