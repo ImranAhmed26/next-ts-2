@@ -1,11 +1,7 @@
 import React from 'react';
 
-type optionsType = { name: string; value: string | number }[];
-
 const Input = ({ options, title }: { options: optionsType; title: string }) => {
-  let optionValues = options;
 
-  console.log('optionsValue', options);
 
   return (
     <div>

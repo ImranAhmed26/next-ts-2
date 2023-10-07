@@ -11,7 +11,6 @@ const Select = ({
 }) => {
   let optionValues = options;
 
-  console.log("optionsValue", options);
 
   return (
     <div>
